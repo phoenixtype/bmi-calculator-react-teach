@@ -102,7 +102,7 @@ const BMICalculator = () => {
         </div>
         <div style={{ marginTop: "10px" }}>
           <button type="submit" style={neumorphicStyle}>
-            Calculate
+            BMI
           </button>
         </div>
       </form>
